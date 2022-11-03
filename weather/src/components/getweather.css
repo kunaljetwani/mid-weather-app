@@ -1,0 +1,32 @@
+.getweather-maincontainer
+{
+    display: flex;
+    justify-content:space-between;
+    padding: 38px;
+}
+.weather
+{
+    width: 45%;
+    text-align: center;
+    background-color: rgb(43,107,168);
+    opacity: 85%;
+    font-size: medium;
+}
+.weather>input
+{
+    width: 90%;
+    padding: 5px;
+    margin: 10px;
+}
+.icons
+{
+    background-color: rgb(43,107,168);
+    opacity: 85%;
+}
+#weather{
+    color:black;
+    font-size: larger;
+    /* position: relative;
+    right: 200px;
+    top:100px */
+}
